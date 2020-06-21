@@ -1,0 +1,182 @@
+h1 {
+    color: #ffff00;
+    text-align: center;
+}
+
+h2 {
+    color:#ffffff;
+    text-align: center;
+}
+
+h3 {
+    color: #ee82ee;
+}
+
+body {
+    background-color: #8b0000;
+}
+
+a:link {
+    color: #ffd700;
+}
+
+a:visited {
+    color: #ffa07a;
+}
+
+.gall {
+    background-color: #dc143c;
+}
+.image {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #000000;
+    margin: 60px;
+    margin-bottom: 30px;
+    padding: 60px;
+}
+
+.image img {
+    border:solid;
+    border-width: 10px;
+    border-color: #7fff00;
+}
+
+.info {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #8b0000;
+}
+
+.information {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #8b0000;    
+}
+
+.information1 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #8b0000;    
+}
+
+.information2 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #8b0000;    
+}
+
+.information3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #8b0000;    
+}
+
+.information4 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #8b0000;    
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #8b008b;
+}
+
+.links {
+    position: relative;    
+    margin: 20px;
+}
+
+.links img {
+    opacity: 0.13;
+}
+
+.links:hover img{
+    opacity: 1;
+}
+
+.f1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #006400;
+}
+
+.sc1 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #008080;
+}
+
+.sc2 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #008080;
+}
+
+.sc3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #008080;
+}
+
+.pon1 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #008080;
+}
+
+.pon2 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:#008080;
+}
+
+.pon3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:#008080
+}
+
+.e3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #000000;
+    opacity: 0.13;
+}
+
+.e3:hover {
+    opacity: 1;
+}
+
+.e4 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #000000;
+    opacity: 0.13;
+}
+
+.e4:hover {
+    opacity: 1;
+}
+
+
+
